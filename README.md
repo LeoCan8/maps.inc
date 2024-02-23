@@ -6,7 +6,7 @@ despues vas a el public de la imagen
 y agregas las funciones mapsd(); y rmaps(playerid); de la siguiente manera
 ![image](https://github.com/LeoCan8/maps.inc/assets/110325378/3959351c-ad8e-4469-b028-802dce99f8bb)
 
-
+El include utiliza dependencias de a_samp y de este repositorio https://github.com/samp-incognito/samp-streamer-plugin
 
 (include hecho desde 0 por Dev team Mythic State Roleplay 2023-2024)
 
